@@ -1,0 +1,21 @@
+.footer-component button {
+  color:white;
+  background: inherit;
+  border:none;
+  cursor: pointer;
+}
+.footer-component {
+  position:fixed;
+  right:0;
+  bottom:0;
+  padding:10px;
+}
+
+.to-top {
+  font-size: 12px;
+  cursor: none
+}
+
+.footer-component button:hover{
+  color:#ffffffc0;
+}

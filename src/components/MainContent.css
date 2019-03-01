@@ -1,0 +1,22 @@
+.hero {
+  
+  font-size: 80px;
+  text-align: center;
+  padding-top: 30vh;
+
+}
+.main {
+    min-height: 100vh;
+}
+
+.skills > * {
+  padding:8px;
+  font-size: 40px;
+}
+.skills{
+  margin-top: -20px; 
+}
+
+.email{
+  font-size: 20px;;
+}
